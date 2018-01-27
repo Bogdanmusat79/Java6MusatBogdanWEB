@@ -38,7 +38,7 @@ public class DisplayBooks extends HttpServlet {
             out.println("</head>");
             out.println("<body>");
             out.println("<h1>Servlet DisplayBooks at " + request.getContextPath() + "</h1>");
-            out.println("<h2>ceasta e cosul meu magic </h2>");
+            out.println("<h2>My code</h2>");
             out.println("</body>");
             out.println("</html>");
         }
